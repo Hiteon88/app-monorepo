@@ -1,0 +1,1 @@
+/*! For license information please see alephium-web3.min.js.LICENSE.txt */
